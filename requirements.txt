@@ -1,0 +1,16 @@
+pip install pandas==2.0.0
+pip install numpy==1.23.5
+pip install scikit-learn==1.2.2
+
+pip install seaborn==0.12.2
+pip install matplotlib==3.7.1
+
+pip install django==4.2.5
+
+python 3.8
+
+
+data = 12,15,745 , columns =13
+
+example-admin = admin@gmail.com , admin
+
